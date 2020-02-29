@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1468274483.jpg</filename>
+	<path>C:\Users\LEGION\Desktop\data\images\test\1468274483.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>86</ymin>
+			<xmax>356</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
