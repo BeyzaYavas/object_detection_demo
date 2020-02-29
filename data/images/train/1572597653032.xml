@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1572597653032.jpg</filename>
+	<path>C:\Users\LEGION\Desktop\data\images\train\1572597653032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>812</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>173</ymin>
+			<xmax>489</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>
